@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# AI dev tools
+.claude/
+.cursor/
+.windsurf/
+.aider/
+.copilot/
+
+# local output
+*.txt
+!requirements*.txt
